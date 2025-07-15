@@ -90,7 +90,7 @@ Pour visualisé les catégories : http://localhost:3001/categories
 
 Pour visualisé les dépenses enregistré : http://localhost:3001/expense
 
-Pour visualisé le résumé mensuel par catégories : http://localhost:3001/expense/summary/monthly
+Pour visualisé le résumé mensuel des dépenses par catégories : http://localhost:3001/expense/summary/monthly
 
 ---
 
