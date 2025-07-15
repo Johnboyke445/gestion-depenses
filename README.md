@@ -72,19 +72,20 @@ cd frontend
 npm install
 
 ---
-###démarrer le Backend
+### Démarrer le Backend
 
 cd backend
 npm run start:dev
 L’API tourne sur : http://localhost:3001
 
-###démarrer le Frontend
+### Démarrer le Frontend
 
 cd Frontend
 npm run dev
 L’application tourne sur : http://localhost:3000
 
 http://localhost:3000/categories
+
 http://localhost:3000/expenses
 
  
