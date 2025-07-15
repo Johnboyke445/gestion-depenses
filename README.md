@@ -76,9 +76,11 @@ cd gestion-depenses
 ---
 ### Démarrer le Backend
 
-- cd backend
-- npm run start:dev
-- L’API tourne sur : http://localhost:3001
+```backend
+cd backend
+npm run start:dev
+```
+L’API tourne sur : http://localhost:3001
 
 Pour visualisé les catégories : http://localhost:3001/categories
 
@@ -90,8 +92,10 @@ Pour visualisé le résumé mensuel par catégories : http://localhost:3001/expe
 
 ### Démarrer le Frontend
 
-- cd Frontend
+```frontend
+cd Frontend
 - npm run dev
+```
 L’application tourne sur : http://localhost:3000
 
 Pour ajouter des catégories :  http://localhost:3000/categories
