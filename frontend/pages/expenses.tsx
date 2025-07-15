@@ -191,7 +191,7 @@ function exportToPDF() {
         ))}
       </ul>
 
-      <h2>Résumé mensuel par catégorie</h2>
+      <h2>Résumé mensuel des dépenses par catégorie</h2>
           <ul>
         {monthlySummary.map((item, index) => ( // On parcourt chaque entrée du résumé (une par combinaison mois + catégorie)
           <li key={index}>
