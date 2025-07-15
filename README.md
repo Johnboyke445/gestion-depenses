@@ -94,7 +94,7 @@ Pour visualisé le résumé mensuel par catégories : http://localhost:3001/expe
 
 ```frontend
 cd Frontend
-- npm run dev
+npm run dev
 ```
 L’application tourne sur : http://localhost:3000
 
@@ -106,7 +106,7 @@ Pour ajouter et visualisé les dépenses enregistré, en graphique et un résum�
  
 Test rapide
 
--Ajouter une ou plusieurs catégories
--Ajouter une dépense
--Visualiser le graphique, les dépenses enregistré et le résumé mensuel des dépenses par catégorie
--Exporter en PDF
+- Ajouter une ou plusieurs catégories
+- Ajouter une dépense
+- Visualiser le graphique, les dépenses enregistré et le résumé mensuel des dépenses par catégorie
+- Exporter en PDF
