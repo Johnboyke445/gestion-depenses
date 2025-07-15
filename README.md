@@ -1,10 +1,10 @@
-# 💰 Gestionnaire de Dépenses
+# Gestionnaire de Dépenses
 
 Une application web simple pour **ajouter**, **visualiser** et **gérer** ses dépenses avec catégories.
 
 ---
 
-## 🚀 Fonctionnalités
+## Fonctionnalités
 
 -  Ajouter une **catégorie**
 -  Ajouter une **dépense** (montant, date, catégorie)
