@@ -65,14 +65,17 @@ cd gestion-depenses
 
 ### Backend 
 
-- cd backend
-- npm install
+```
+cd backend
+npm install
+```
 
 ### Frontend 
 
-- cd frontend
-- npm install
-
+```
+cd frontend
+npm install
+```
 ---
 ### Démarrer le Backend
 
@@ -80,6 +83,7 @@ cd gestion-depenses
 cd backend
 npm run start:dev
 ```
+
 L’API tourne sur : http://localhost:3001
 
 Pour visualisé les catégories : http://localhost:3001/categories
