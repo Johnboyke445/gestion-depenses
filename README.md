@@ -42,9 +42,13 @@ Une application web simple pour **ajouter**, **visualiser** et **gérer** ses d�
 Dans le dossier `backend`, crée un fichier `.env` avec la configuration de ta base PostgreSQL :
 
 DB_HOST=localhost
+
 DB_PORT=5432
+
 DB_USERNAME=ton_utilisateur
+
 DB_PASSWORD=ton_mot_de_passe
+
 DB_DATABASE=nom_de_ta_base
 
 ---
@@ -77,6 +81,13 @@ npm install
 cd backend
 npm run start:dev
 L’API tourne sur : http://localhost:3001
+Pour visualisé les catégories : http://localhost:3001/categories
+
+Pour visualisé les dépenses enregistré : http://localhost:3001/expense
+
+Pour visualisé le résumé mensuel par catégories : http://localhost:3001/expense/summary/monthly
+
+---
 
 ### Démarrer le Frontend
 
@@ -84,8 +95,8 @@ cd Frontend
 npm run dev
 L’application tourne sur : http://localhost:3000
 
-http://localhost:3000/categories
+Pour ajouter des catégories :  http://localhost:3000/categories
 
-http://localhost:3000/expenses
+Pour ajouter et visualisé les dépenses enregistré, en graphique et un résumé mensuel par catégories : http://localhost:3000/expenses
 
  
